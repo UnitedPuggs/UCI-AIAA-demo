@@ -4,7 +4,7 @@
 
 <body class="bg-black">
 <div id="container" class="flex flex-col flex-wrap">
-    <div id="nav" class="flex flex-row justify-center bg-blue-600 shadow-inner text-white">
+    <div id="nav" class="flex flex-row justify-center bg-blue-600 shadow-inner text-white fixed m-1">
         <a href="https://www.aiaa.org/" class="nav-btn">AIAA</a>
         <a href="/" class="nav-btn">Home</a>
         <a href="/about" class="nav-btn">About</a>
@@ -13,7 +13,7 @@
     </div>
     <div id="home" class="flex flex-col justify-center items-center">
         <img src="/assets/rocket.jpg" alt="" width="896" class="mt-2 h-[30rem] rounded-t-md">
-        <div class="bg-white px-24 pb-8 drop-shadow-2xl max-w-4xl rounded-b-md">
+        <div class="bg-white px-24 pb-8 drop-shadow-2xl max-w-4xl rounded-b-md mb-10">
             <p class="mt-2 font-sans font-normal">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
             Pellentesque tempor orci ac malesuada faucibus. Cras at varius diam. 
