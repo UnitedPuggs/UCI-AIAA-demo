@@ -4,7 +4,7 @@
 
 <body class="bg-black">
 <div id="container" class="flex flex-col flex-wrap">
-    <div id="nav" class="flex flex-row justify-center bg-blue-600 shadow-inner text-white fixed m-1">
+    <div id="nav" class="flex flex-row justify-center bg-blue-600 shadow-inner text-white m-1">
         <a href="https://www.aiaa.org/" class="nav-btn">AIAA</a>
         <a href="/" class="nav-btn">Home</a>
         <a href="/about" class="nav-btn">About</a>
